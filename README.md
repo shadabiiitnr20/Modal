@@ -1,2 +1,2 @@
-# Modal in React using tailwindcss
+## Modal in React using tailwindcss
 
